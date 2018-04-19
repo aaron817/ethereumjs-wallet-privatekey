@@ -1,2 +1,2 @@
 # ethereumjs-wallet-pk
-get ethereumjs-wallet privatekey
+get ethereum wallet privatekey
