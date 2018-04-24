@@ -1,3 +1,3 @@
 get ethereum wallet privatekey
 
-eg: node ./getpk password
+eg: node ./getpk keyfile password
